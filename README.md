@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
@@ -55,5 +57,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 18:48:03 UTC
+ Last Updated on 07/05/2022 18:45:52 UTC
 <!--END_SECTION:waka-->
