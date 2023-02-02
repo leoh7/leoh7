@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C402%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C403%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,10 +32,12 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     37 mins             █████████████░░░░░░░░░░░░   54.2% 
+TypeScript               31 mins             ███████████░░░░░░░░░░░░░░   45.68% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 8 mins         █████████████████████████   100.0%
 
 ```
 
@@ -52,5 +54,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2023 18:40:18 UTC
+ Last Updated on 02/02/2023 18:40:08 UTC
 <!--END_SECTION:waka-->
