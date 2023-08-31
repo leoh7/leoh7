@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C326%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C326%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -30,10 +30,12 @@ Sunday                   4234 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 10 mins             █████████████████████████   100.00 % 
+Markdown                 10 mins             ███████████████████░░░░░░   74.68 % 
+Assembly                 3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
 
 🔥 Editors: 
-Obsidian                 10 mins             █████████████████████████   100.00 % 
+Obsidian                 10 mins             ███████████████████░░░░░░   74.68 % 
+VS Code                  3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -49,5 +51,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2023 18:43:15 UTC
+ Last Updated on 31/08/2023 18:42:26 UTC
 <!--END_SECTION:waka-->
