@@ -30,10 +30,10 @@ Sunday                   4681 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Obsidian                 22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -49,5 +49,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2023 18:46:19 UTC
+ Last Updated on 05/10/2023 18:45:06 UTC
 <!--END_SECTION:waka-->
