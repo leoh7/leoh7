@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C303%20hrs%2034%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I Mostly Code in TypeScript** 
@@ -16,5 +14,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 18:55:14 UTC
+ Last Updated on 20/09/2025 18:53:53 UTC
 <!--END_SECTION:waka-->
