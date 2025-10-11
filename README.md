@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C344%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C348%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,10 +30,12 @@ Sunday                   4034 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 hrs 12 mins       ██████████████████████░░░   87.83 % 
+TypeScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -49,5 +51,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2025 18:56:36 UTC
+ Last Updated on 11/10/2025 18:49:10 UTC
 <!--END_SECTION:waka-->
