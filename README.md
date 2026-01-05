@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C522%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C522%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -51,5 +51,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 19:01:27 UTC
+ Last Updated on 05/01/2026 19:06:37 UTC
 <!--END_SECTION:waka-->
