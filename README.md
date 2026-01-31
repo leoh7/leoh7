@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C539%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C539%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,8 +30,9 @@ Sunday                   4476 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 3 hrs 57 mins       ████████████████████████░   95.08 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Markdown                 3 hrs 54 mins       ███████████████████████░░   93.42 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
 Cursor                   4 hrs 10 mins       █████████████████████████   100.00 % 
@@ -50,5 +51,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2026 19:19:57 UTC
+ Last Updated on 31/01/2026 19:04:40 UTC
 <!--END_SECTION:waka-->
